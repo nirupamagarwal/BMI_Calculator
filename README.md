@@ -1,4 +1,4 @@
-# calculate_bmi
+# BMI Calculator
 
 This Flutter cross-platform project features a BMI calculator app that empowers users to promptly determine their BMI status by inputting vital parameters like gender, age, height, and weight.
 
