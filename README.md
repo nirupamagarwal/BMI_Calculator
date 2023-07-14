@@ -36,4 +36,5 @@ Build and Run: Once the Gradle sync is complete, you can build and run the proje
 # images
 ![image](https://github.com/nirupamagarwal/BMI_Calculator/assets/134148426/d978a840-ba68-498d-a855-3053c3740913)
 ![image](https://github.com/nirupamagarwal/BMI_Calculator/assets/134148426/9a0ac574-2f8d-498a-81c7-2ebb202a363a)
+![image](https://github.com/nirupamagarwal/BMI_Calculator/assets/134148426/5e3aa984-db2d-4dfd-aba9-5b2ce9ccaeee)
 
