@@ -11,8 +11,6 @@ The app boasts a visually captivating UI design and is crafted to deliver an exc
 # Features
 
 cross-platform
-Result saving
-History tracking
 Intiutive & user friendly
 # How to open the project
 To open a project from GitHub in Android Studio, you can follow these step-by-step points:
