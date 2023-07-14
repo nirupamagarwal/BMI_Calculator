@@ -14,3 +14,24 @@ cross-platform
 Result saving
 History tracking
 Intiutive & user friendly
+# How to open the project
+To open a project from GitHub in Android Studio, you can follow these step-by-step points:
+
+Install Git: Ensure that Git is installed on your computer. You can download and install Git from the official website: https://git-scm.com/downloads
+
+Clone the Repository: Open a terminal or command prompt and navigate to the directory where you want to clone the GitHub repository. Use the git clone command followed by the repository URL to clone the repository to your local machine. For example:
+
+bash
+Copy code
+git clone https://github.com/username/repository.git
+Open Android Studio: Launch Android Studio on your computer.
+
+Import Project: In the Android Studio welcome screen, select "Import Project."
+
+Locate the Project: Navigate to the directory where you cloned the repository and select the project's root folder. Click "OK" to import the project.
+
+Gradle Sync: Android Studio will start importing the project and perform a Gradle sync to download the necessary dependencies. This process may take a while.
+
+Configure SDK and Build Tools: If prompted, make sure to select the appropriate Android SDK version and build tools required for the project.
+
+Build and Run: Once the Gradle sync is complete, you can build and run the project on an emulator or physical device. Use the toolbar in Android Studio to select the desired device and click the "Run" button.
